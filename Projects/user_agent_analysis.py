@@ -22,6 +22,7 @@ sns.barplot(y=subset.index, x=subset.values)
 
 plt.show()
 
+
 print('sjoboobo')
 print(frame['a'].iloc[0])
 print(frame['a'][0])
