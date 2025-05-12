@@ -1,8 +1,9 @@
 import json
-import pandas as pd
-import seaborn as sns
+
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import seaborn as sns
 
 path = r"C:\Users\31620\AppData\Roaming\JetBrains\PyCharm2024.3\scratches\example.txt"
 open(path).readline()
